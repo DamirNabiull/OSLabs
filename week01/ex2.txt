@@ -1,0 +1,895 @@
+    1  ~/.icons
+    2  mkdir ~/.icons
+    3  cd~/.icons
+    4  cd ~/.icons
+    5  ls
+    6  mkdir ~/.icons
+    7  echo $XDG_CURRENT_DESCTOP
+    8  abhishek@itsfoss:~$ echo $XDG_CURRENT_DESCTOP
+    9  abhishek@itsfoss:~$ echo $XDG_CURRENT_DESCTOP ubuntu:GNOME
+   10  ~$ echo $XDG_CURRENT_DESCTOP ubuntu:GNOME
+   11  echo $XDG_CURRENT_DESCTOP ubuntu:GNOME
+   12  echo $XDG_CURRENT_DESCTOP
+   13  echo $XDG_CURRENT_DESCTOP ubuntu:GNOME
+   14  sudo apt install screenfetch
+   15  sudo apt install gnome-shell-extensions
+   16  ~/.local/share/gnome-shell/extensions/
+   17  mkdir ~/.local/share/gnome-shell/extensions/
+   18  gnome-shell-extension-prefs dash-to-dock@micxgx.gmail.com
+   19  sudo apt install flatpak
+   20  sudo add-apt-repository ppa:alexlarsson/flatpak
+   21  sudo apt update
+   22  sudo apt install flatpak
+   23  sudo apt install gnome-software-plugin-flatpak
+   24  flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+   25  flatpak install flathub org.telegram.desktop
+   26  sudo reboot now
+   27  unzip -qq macOS\ Cursor\ Set.zip
+   28  cd ~/Downloads
+   29  unzip -qq macOS\ Cursor\ Set.zip
+   30  mv macOS\ Cursor\ Set ~/.icons/
+   31  ls
+   32  cd ..
+   33  sudo apt install plank
+   34  gcc -v
+   35  sudo apt-get update
+   36  gcc -v
+   37  sudo apt install gcc
+   38  sudo apt-get install build-essential gdb
+   39  mkdir projects_c++
+   40  cd projects_c++
+   41  mkdir helloworld
+   42  cd helloworld
+   43  code .
+   44  ls
+   45  ./helloworld
+   46  ls
+   47  ./helloworld
+   48  ext install ms-python.python
+   49  python3 --version
+   50  py -3 --version
+   51  mkdir py_proj
+   52  cd py_proj
+   53  code .
+   54  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   55  sudo apt install curl
+   56  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   57  python get-pip.py
+   58  python3 get-pip.py
+   59  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   60  python3 --version
+   61  py -3 --version
+   62  sudo apt install pythonpy
+   63  python3 get-pip.py
+   64  python get-pip.py
+   65  ls
+   66  get-pip.py
+   67  cd get-pip.py
+   68  python get-pip.py
+   69  python3 get-pip.py
+   70  python get-pip.py
+   71  python get-pip.py --no-index --find-links=/local/copies
+   72  ls
+   73  cd py_proj
+   74  ls
+   75  code 1.py
+   76  /usr/bin/python3 /home/dale/py_proj/1.py
+   77  /usr/bin/python3 /home/dale/.vscode/extensions/ms-python.python-2020.8.105045/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+   78  /usr/bin/python3 /home/dale/py_proj/1.py
+   79  python get-pip.py
+   80  sudo apt update
+   81  sudo apt install python3-pip
+   82  pip3 --version
+   83  ls
+   84  cd py_proj
+   85  code 1.py
+   86  sudo apt install python3-numpy
+   87  python3 -c "import numpy; print(numpy.__version__)"
+   88  pip install pandas
+   89  sudo pip install numpy
+   90  sudo apt-get install python3-pip
+   91  sudo pip3 install pandas
+   92  wget https://archive.org/download/prospect-mail/prospect-mail_0.1.2_amd64.deb
+   93  sudo dpkg -i prospect-mail_0.1.2_amd64.deb
+   94  python3 -c "import pandas; print(pandas.__version__)
+   95  python3 -c "import pandas; print(pandas.__version__)
+   96  python3 -c "import pandas; print(pandas.__version__)
+   97  /usr/bin/python3 /home/dale/py_proj/1.py
+   98  ./bin/TRIKStudio
+   99  ./TRIKStudio/trik-studio 
+  100  ./TRIKStudio/bin/trik-studio 
+  101  ./TRIKStudio/trik-studio 
+  102  ls
+  103  mkdir proga
+  104  ls
+  105  cd proga
+  106  mkdir tasks_cf
+  107  cd tasks_cf
+  108  code .
+  109  /1.cpp
+  110  ./1
+  111  ./1.cpp
+  112  ./1
+  113  sudo apt-get update
+  114  sudo apt-get install grub
+  115  sudo poweroff
+  116  ./1
+  117  ls
+  118  mkdir cii
+  119  cd cii
+  120  code .
+  121  sudo poweroff
+  122  sudo snap install clion --classic
+  123  sudo reboot
+  124  sudo snap install [pycharm-professional|pycharm-community] --classic
+  125  sudo snap install [pycharm-proffessional] --classic
+  126  sudo apt-get snap
+  127  ls
+  128  cd Downloads
+  129  ls
+  130  cd pycharm-2020.2.1
+  131  cd bin
+  132  ./pycharm.sh
+  133  sudo sleep
+  134  sleep --help
+  135  ./1
+  136  ...
+  137  ..
+  138  /
+  139  ls
+  140  cd cii
+  141  ls
+  142  code 1/c
+  143  code 1.c
+  144  sudo poweroff
+  145  prime-select
+  146  sudo apt install nvidia-prime
+  147  ubuntu-drivers devices
+  148  ubuntu-drivers devices
+  149  sudo ubuntu-drivers autoinstall
+  150  sudo reboot
+  151  sudo apt install nvidia-prime
+  152  nvidia-prime select intel
+  153  sudo apt install nvidia-prime
+  154  sudo apt autoremove
+  155  sudo apt install nvidia-prime
+  156  sudo reboot
+  157  ./generator_1 
+  158  ls
+  159  cd Documents
+  160  ls
+  161  mkdir NTI
+  162  cd NTI
+  163  mkdir Issue_4_generator
+  164  cd Issue_4_generator/
+  165  code .
+  166  ды
+  167  cd Documents/
+  168  cd NTI
+  169  ls
+  170  cd Issue_4_generator/
+  171  code .
+  172  юю
+  173  ..
+  174  cd ..
+  175  cd Documents/
+  176  mkdir PSS
+  177  cd PSS
+  178  mkdir lab_1
+  179  cd lab_1/
+  180  code .
+  181  gcc -g
+  182  gdb -v
+  183  gcc -v
+  184  clear
+  185  sudo apt install ne
+  186  ls
+  187  cd Documents/
+  188  ls
+  189  cd PSS
+  190  ls
+  191  cd lab_1
+  192  touch first.c
+  193  nano first.c
+  194  gcc -v
+  195  clear
+  196  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  197  sudo apt-get install apt-transport-https
+  198  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  199  sudo apt-get update
+  200  sudo apt-get install sublime-text
+  201  clear
+  202  cd Documents/
+  203  cd PSS
+  204  ls
+  205  cd lab_1/
+  206  cat first.c
+  207  cd ..
+  208  cd lab_1/
+  209  cat first.c
+  210  gcc hello.c
+  211  gcc first.c
+  212  gcc first.c -o hello.c
+  213  gcc first.c -o hello
+  214  ./first.c
+  215  ./first
+  216  ./hello
+  217  ./a
+  218  ./a.out
+  219  clear
+  220  gdb run first.c
+  221  clear
+  222  gdb first
+  223  gdb first.c
+  224  ls
+  225  gdb hello
+  226  gcc first.c -o hello
+  227  gdb hello
+  228  clear
+  229  gdb hello
+  230  gcc first.c -o hello
+  231  ./hello
+  232  gcc first.c -o hello
+  233  ./hello
+  234  gcc first.c -o hello
+  235  ./hello
+  236  gdb hello
+  237  ros2 run demo_nodes_cpp talker
+  238  ros2 run demo_nodes_py listener
+  239  sudo locale-gen en_US en_US.UTF-8
+  240  sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8
+  241  export LANG=en_US.UTF-8
+  242  sudo apt update && sudo apt install curl gnupg2 lsb-release
+  243  curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
+  244  sudo sh -c 'echo "deb [arch=$(dpkg --print-architecture)] http://packages.ros.org/ros2/ubuntu $(lsb_release -cs) main" > /etc/apt/sources.list.d/ros2-latest.list'
+  245  sudo apt update
+  246  sudo apt install ros-foxy-desktop
+  247  echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
+  248  sudo apt install -y python3-pip
+  249  pip3 install -U argcomplete
+  250  sudo apt install python3-colcon-common-extensions 
+  251  printenv | grep -i ROS
+  252  printenv | grep ROS
+  253  printenv | grep -i ROS
+  254  ./generator_1 
+  255  python -m pip install -U pip
+  256  python3 -m pip install -U pip
+  257  python3 -m pip install -U matplotlib
+  258  sudo apt-get install python3-matplotlib
+  259  sudo apt update
+  260  system_freetype = true
+  261  system_qhull = true
+  262  sudo apt install libfreetype6-dev
+  263  sudo apt install pkg-config  # Debian/Ubuntu
+  264  export CFLAGS='-I/directory/containing/ft2build.h'
+  265  export LDFLAGS='-L/directory/containing/libfreetype.so'
+  266  set CL=/IC:\directory\containing\ft2build.h
+  267  set LINK=/LIBPATH:C:\directory\containing\freetype.lib
+  268  ./generator_1 > out.txt
+  269  0 0 0 0 10 1
+  270  ./generator_1 > out.txt
+  271  plt.scatter(2.899, 0.020)
+  272  plt.scatter(2.994, 0.049)
+  273  plt.scatter(3.082, 0.097)
+  274  plt.scatter(3.155, 0.166)
+  275  plt.scatter(3.205, 0.252)
+  276  plt.scatter(3.222, 0.351)
+  277  plt.scatter(3.199, 0.448)
+  278  plt.scatter(3.136, 0.526)
+  279  ./generator_1 > out.txt
+  280  plt.scatter(3.136, 0.526)
+  281  ./generator_1 > out.txt
+  282  ./Tester > tester_out.txt
+  283  ./generator_1 > out.txt
+  284  ./Tester > tester_out.txt
+  285  ./generator_1 > out.txt
+  286  ./Tester > tester_out.txt
+  287  ./generator_1 > out.txt
+  288  ./Tester > tester_out.txt
+  289  ./generator_1 > out.txt
+  290  ./Tester > tester_out.txt
+  291  ./generator_1 > out.txt
+  292  ./Tester > tester_out.txt
+  293  ./generator_1 > out.txt
+  294  ./Tester > tester_out.txt
+  295  git
+  296  sudo apt install git
+  297  l
+  298  cd Documents/
+  299  git clone https://gitlab.com/project-oriented-challenges/onti-202021/irs-short-assignments.git
+  300  ./Tester > tester_out.txt
+  301  56.094 -91.989 -2.470 -0.480 30 4
+  302  1486.000 -0.467
+  303  1249.000 -0.033
+  304  1592.000 0.175
+  305  0.000 0.000
+  306  ./Tester > tester_out.txt
+  307  ./generator_1 > out.txt
+  308  ./Tester > tester_out.txt
+  309  ./generator_1 > out.txt
+  310  ./Tester > tester_out.txt
+  311  ./generator_1 > out.txt
+  312  ./Tester > tester_out.txt
+  313  ls
+  314  PycharmProjects/
+  315  cd PycharmProjects/
+  316  ls
+  317  cd pythonProject/
+  318  code main.py
+  319  ./generator_1 > out.txt
+  320  ./Tester > tester_out.txt
+  321  ./generator_1 > out.txt
+  322  ./Tester > tester_out.txt
+  323  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  324  ls
+  325  python3 main.py 
+  326  sudo apt install snapd
+  327  snap install --classic anbox-installer &amp;&amp; anbox-installer
+  328  snap install --classic anbox-installer
+  329  anbox-installer
+  330  anbox-installer install anbox
+  331  sudo apt update
+  332  sudo apt install snapd
+  333  sudo snap install --beta --devmode anbox
+  334  anbox session-manager
+  335  anbox.appmgr
+  336  anbox session-manager
+  337  ashem kernel drivers
+  338  sudo apt update
+  339  sudo apt install anbox
+  340  sudo add-apt-repository ppa:morphis/anbox-support
+  341  sudo apt update
+  342  sudo apt install linux-headers-generic anbox-modules-dkms
+  343  sudo modprobe ashmem_linux
+  344  sudo modprobe binder_linux
+  345  ls -1 /dev/{ashmem,binder}
+  346  sudo dpkg -i shashlik_0.9.3.deb
+  347  sudo apt install --classic anbox-installer && anbox-installer
+  348  s -1 /dev/{ashmem,binder}
+  349  ls -1 /dev/{ashmem,binder}
+  350  snap install --devmode --beta anbox
+  351  sudo add-apt-repository ppa:morphis/anbox-support
+  352  sudo apt update
+  353  sudo apt install linux-headers-generic anbox-modules-dkms
+  354  sudo apt install software-properties-common
+  355  sudo modprobe ashmem_linux
+  356  gcc 
+  357  gcc help
+  358  ./Tester 
+  359  ./Tester > tester_out.txt 
+  360  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  361  gcc help/usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  362  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  363  cd Documents/
+  364  ls
+  365  cd PSS/
+  366  ls
+  367  cd lab_1
+  368  ls
+  369  nano first.c
+  370  g
+  371  fg
+  372  ls
+  373  cd Documents/
+  374  ls
+  375  cd irs-short-assignments/
+  376  ls
+  377  cd 04_task/
+  378  ls
+  379  cd checker/
+  380  ls
+  381  cd Documents/
+  382  cd PSS/
+  383  cd lab_1/
+  384  nano first.c
+  385  gcc first.c -o hello
+  386  cd Documents/
+  387  cd PSS/
+  388  cd lab_1/
+  389  nano first.c
+  390  node
+  391  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+  392  nvm i 12
+  393  node
+  394  npm i kahoot.js-updated node-fetch
+  395  node kahoot-bot.js 
+  396  ./Tester > tester_out.txt 
+  397  ./generator_1 > out.txt
+  398  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  399  ./Tester > tester_out.txt 
+  400  ./generator_1 > out.txt
+  401  ./Tester > tester_out.txt 
+  402  ./generator_1 > out.txt
+  403  ./Tester > tester_out.txt 
+  404  ./generator_1 > out.txt
+  405  ./Tester > tester_out.txt 
+  406  ./generator_1 > out.txt
+  407  ./Tester > tester_out.txt 
+  408  ./generator_1 > out.txt
+  409  ./Tester > tester_out.txt 
+  410  ./generator_1 > out.txt
+  411  ./Tester > tester_out.txt 
+  412  ./generator_1 > out.txt
+  413  ./Tester > tester_out.txt 
+  414  ./generator_1 > out.txt/usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  415  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  416  ./generator_1 > out.txt/usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py/usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  417  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  418  ~/.gitconfig
+  419  ls
+  420  ..
+  421  cd ..
+  422  ls
+  423  cd ..
+  424  ls
+  425  cd etc
+  426  ls
+  427  cd gitconfig
+  428  ls
+  429  cd Documents/
+  430  ls
+  431  cd irs-short-assignments/
+  432  ls
+  433  cd 04_task/
+  434  ls
+  435  cd generator/
+  436  ls
+  437  . code
+  438  code .
+  439  git config --list --show-origin
+  440  ~/.config/git/config
+  441  ~/.gitconfig
+  442  cd ~/.gitconfig
+  443  git config --global user.name "DamNab"
+  444  git config --global user.email nabiull2020@gmail.com
+  445  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  446  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  447  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  448  ./generator_1 > out.txt
+  449  ./Tester > tester_out.txt 
+  450  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  451  clear
+  452  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  453  clear
+  454  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  455  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  456  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  457  plt.plot([-18.213, -16.322], [52.244, 50.317])
+  458  plt.text(-16.842, 51.737, 'F2', fontsize=12)
+  459  plt.plot([-17.241, -16.443], [53.027, 50.447])
+  460  plt.text(-16.216, 51.940, 'F3', fontsize=12)
+  461  plt.plot([-15.941, -16.491], [53.262, 50.619])
+  462  plt.text(-15.540, 51.790, 'F4', fontsize=12)
+  463  plt.plot([-14.630, -16.449], [52.787, 50.792])
+  464  plt.text(-15.338, 51.710, 'F5', fontsize=12)
+  465  plt.plot([-14.279, -16.398], [52.546, 50.873])
+  466  plt.text(-15.281, 51.790, 'F6', fontsize=12)
+  467  plt.plot([-14.228, -16.334], [52.635, 50.944])
+  468  plt.text(-15.385, 52.035, 'F7', fontsize=12)
+  469  plt.plot([-14.500, -16.270], [53.055, 51.016])
+  470  plt.text(-16.518, 52.530, 'F8', fontsize=12)
+  471  plt.plot([-16.816, -16.220], [53.847, 51.214])
+  472  plt.text(-17.241, 52.353, 'F9', fontsize=12)
+  473  plt.plot([-18.208, -16.275], [53.296, 51.410])
+  474  plt.text(-17.729, 51.885, 'F10', fontsize=12)
+  475  plt.plot([-19.038, -16.421], [52.218, 51.553])
+  476  plt.text(-17.808, 51.209, 'F11', fontsize=12)
+  477  plt.plot([-19.108, -16.509], [50.842, 51.575])
+  478  plt.text(-17.538, 50.583, 'F12', fontsize=12)
+  479  plt.plot([-18.480, -16.597], [49.615, 51.550])
+  480  plt.text(-16.991, 50.176, 'F13', fontsize=12)
+  481  plt.plot([-17.322, -16.660], [48.868, 51.485])
+  482  plt.text(-17.465, 50.635, 'F14', fontsize=12)
+  483  plt.plot([-18.407, -16.524], [49.668, 51.603])
+  484  plt.text(-17.459, 50.879, 'F15', fontsize=12)
+  485  plt.plot([-18.483, -16.435], [49.999, 51.759])
+  486  plt.text(-17.101, 50.764, 'F16', fontsize=12)
+  487  plt.plot([-17.766, -16.437], [49.589, 51.939])
+  488  plt.text(-16.537, 50.780, 'F17', fontsize=12)
+  489  plt.plot([-16.524, -16.549], [49.430, 52.130])
+  490  plt.text(-16.055, 51.075, 'F18', fontsize=12)
+  491  plt.plot([-15.369, -16.741], [49.913, 52.238])
+  492  plt.text(-15.787, 51.573, 'F19', fontsize=12)
+  493  plt.plot([-14.611, -16.962], [50.909, 52.236])
+  494  plt.text(-16.198, 51.029, 'F20', fontsize=12)
+  495  plt.plot([-15.512, -16.884], [49.866, 52.192])
+  496  plt.text(-16.826, 50.764, 'F21', fontsize=12)
+  497  plt.plot([-16.813, -16.838], [49.414, 52.114])
+  498  plt.text(-17.502, 50.849, 'F22', fontsize=12)
+  499  plt.plot([-18.167, -16.837], [49.674, 52.024])
+  500  #-18.167 49.674
+  501  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  502  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  503  ./generator_1 > out.txt
+  504  ./Tester > tester_out.txt 
+  505  plt.scatter(0.072, -0.000)
+  506  plt.scatter(0.144, -0.000)
+  507  plt.scatter(0.216, -0.000)
+  508  plt.scatter(0.288, -0.001)
+  509  plt.scatter(0.360, -0.001)
+  510  plt.scatter(0.432, -0.002)
+  511  plt.scatter(0.504, -0.002)
+  512  plt.scatter(0.576, -0.003)
+  513  plt.scatter(0.648, -0.005)
+  514  plt.scatter(0.720, -0.006)
+  515  plt.scatter(0.792, -0.008)
+  516  plt.scatter(0.864, -0.011)
+  517  plt.scatter(0.936, -0.013)
+  518  plt.scatter(1.008, -0.016)
+  519  plt.scatter(1.080, -0.020)
+  520  plt.scatter(1.152, -0.024)
+  521  plt.scatter(1.223, -0.028)
+  522  plt.scatter(1.295, -0.033)
+  523  plt.scatter(1.367, -0.039)
+  524  plt.scatter(1.439, -0.045)
+  525  plt.scatter(1.367, -0.039)
+  526  plt.scatter(1.295, -0.034)
+  527  plt.scatter(1.223, -0.030)
+  528  plt.scatter(1.151, -0.027)
+  529  plt.scatter(1.079, -0.024)
+  530  plt.scatter(1.007, -0.022)
+  531  plt.scatter(0.935, -0.021)
+  532  plt.scatter(0.863, -0.021)
+  533  plt.scatter(0.791, -0.022)
+  534  plt.scatter(0.719, -0.023)
+  535  plt.scatter(0.648, -0.026)
+  536  plt.scatter(0.576, -0.029)
+  537  plt.scatter(0.504, -0.034)
+  538  plt.scatter(0.432, -0.040)
+  539  plt.scatter(0.360, -0.046)
+  540  plt.scatter(0.289, -0.054)
+  541  plt.scatter(0.217, -0.063)
+  542  plt.scatter(0.146, -0.073)
+  543  plt.scatter(0.075, -0.084)
+  544  plt.scatter(0.004, -0.097)
+  545  ./Tester > tester_out.txt 
+  546  ./generator_1 > out.txt 
+  547  ./Tester > tester_out.txt 
+  548  plt.scatter(0.072, 0.001)
+  549  plt.scatter(0.144, 0.003)
+  550  plt.scatter(0.216, 0.007)
+  551  plt.scatter(0.288, 0.011)
+  552  plt.scatter(0.360, 0.017)
+  553  plt.scatter(0.431, 0.023)
+  554  plt.scatter(0.503, 0.031)
+  555  plt.scatter(0.574, 0.040)
+  556  plt.scatter(0.646, 0.050)
+  557  plt.scatter(0.717, 0.061)
+  558  plt.scatter(0.788, 0.073)
+  559  plt.scatter(0.858, 0.086)
+  560  plt.scatter(0.929, 0.101)
+  561  plt.scatter(0.999, 0.116)
+  562  plt.scatter(1.069, 0.133)
+  563  plt.scatter(1.139, 0.150)
+  564  plt.scatter(1.209, 0.169)
+  565  plt.scatter(1.278, 0.188)
+  566  plt.scatter(1.347, 0.209)
+  567  plt.scatter(1.416, 0.231)
+  568  plt.scatter(1.347, 0.210)
+  569  plt.scatter(1.277, 0.191)
+  570  plt.scatter(1.208, 0.172)
+  571  plt.scatter(1.138, 0.154)
+  572  plt.scatter(1.068, 0.138)
+  573  plt.scatter(0.998, 0.122)
+  574  plt.scatter(0.927, 0.108)
+  575  plt.scatter(0.856, 0.095)
+  576  plt.scatter(0.785, 0.083)
+  577  plt.scatter(0.714, 0.072)
+  578  plt.scatter(0.643, 0.062)
+  579  plt.scatter(0.571, 0.053)
+  580  plt.scatter(0.500, 0.045)
+  581  plt.scatter(0.428, 0.038)
+  582  plt.scatter(0.356, 0.033)
+  583  plt.scatter(0.284, 0.028)
+  584  plt.scatter(0.213, 0.025)
+  585  plt.scatter(0.141, 0.023)
+  586  plt.scatter(0.069, 0.022)
+  587  plt.scatter(-0.003, 0.022)
+  588  #-0.003 0.022
+  589  0 0 0 0 20 3
+  590  72 100
+  591  -72 100
+  592  ./Tester > tester_out.txt 
+  593  ./generator_1 > out.txt 
+  594  ./Tester > tester_out.txt 
+  595  ./generator_1 > out.txt 
+  596  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  597  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  598  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  599  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  600  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  601  plt.scatter(0.072, 0.000)
+  602  plt.scatter(0.144, 0.001)
+  603  plt.scatter(0.216, 0.002)
+  604  plt.scatter(0.288, 0.004)
+  605  plt.scatter(0.360, 0.007)
+  606  plt.scatter(0.432, 0.011)
+  607  plt.scatter(0.504, 0.016)
+  608  plt.scatter(0.575, 0.023)
+  609  plt.scatter(0.647, 0.030)
+  610  plt.scatter(0.718, 0.039)
+  611  plt.scatter(0.790, 0.048)
+  612  plt.scatter(0.861, 0.059)
+  613  plt.scatter(0.932, 0.071)
+  614  plt.scatter(1.003, 0.084)
+  615  plt.scatter(1.073, 0.098)
+  616  plt.scatter(1.144, 0.113)
+  617  plt.scatter(1.214, 0.129)
+  618  plt.scatter(1.284, 0.147)
+  619  plt.scatter(1.353, 0.165)
+  620  plt.scatter(1.423, 0.184)
+  621  plt.scatter(1.353, 0.166)
+  622  plt.scatter(1.283, 0.149)
+  623  plt.scatter(1.213, 0.133)
+  624  plt.scatter(1.143, 0.117)
+  625  plt.scatter(1.072, 0.103)
+  626  plt.scatter(1.001, 0.090)
+  627  plt.scatter(0.930, 0.079)
+  628  plt.scatter(0.859, 0.068)
+  629  plt.scatter(0.788, 0.058)
+  630  plt.scatter(0.716, 0.050)
+  631  plt.scatter(0.645, 0.042)
+  632  plt.scatter(0.573, 0.036)
+  633  plt.scatter(0.501, 0.031)
+  634  plt.scatter(0.429, 0.026)
+  635  plt.scatter(0.357, 0.023)
+  636  plt.scatter(0.285, 0.021)
+  637  plt.scatter(0.213, 0.021)
+  638  plt.scatter(0.141, 0.021)
+  639  plt.scatter(0.069, 0.022)
+  640  plt.scatter(-0.003, 0.025)
+  641  #-0.003 0.025
+  642  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  643  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  644  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  645  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  646  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  647  /usr/bin/python3 /home/dale/PycharmProjects/pythonProject/main.py
+  648  /usr/bin/python3 /home/dale/Documents/NTI/Issue_4_generator/code.py
+  649  ./generator_1 > out.txt 
+  650  ./generator_1 
+  651  ./generator 
+  652  ./generator_1 
+  653  ./generator
+  654  ./generator_1 > tester_out.txt 
+  655  ./Tester > tester_out.txt 
+  656  ./generator
+  657  ./main
+  658  ./Issue_4_generator/
+  659  cd Issue_4_generator/
+  660  ls
+  661  cd Solutions/
+  662  ./main 
+  663  ./generator 
+  664  sudo apt update
+  665  java -version
+  666  sudo apt install default-jre
+  667  java -version
+  668  sudo apt install default-jdk
+  669  javac -version
+  670  sudo apt-get install eclipse
+  671  sudo snap install eclipse --classic
+  672  ls
+  673  cd Documents/
+  674  cd PSS
+  675  ls
+  676  cd Java/
+  677  cd PR1
+  678  ls
+  679  cd src/
+  680  cd org
+  681  cd damir
+  682  ls
+  683  javac App.java
+  684  Javac App
+  685  javac app
+  686  javac App
+  687  javac App.java 
+  688  ls
+  689  java App
+  690  java App.class
+  691  ls
+  692  java App.class
+  693  javac App.java
+  694  java App
+  695  java App.class
+  696  java org.damir.App
+  697  javac Test.java && java Test
+  698  cd Documents/
+  699  ls
+  700  main.c
+  701  .main
+  702  ./main
+  703  ./main.c
+  704  grep MHz /proc/cpuinfo
+  705  watch grep MHz /proc/cpuinfo
+  706  cpufreq-info
+  707  sudo apt install cpufrequtils 
+  708  cpufreq-info
+  709  ls
+  710  ./
+  711  ..
+  712  cd ..
+  713  ls
+  714  cd dale
+  715  ls
+  716  cd Desktop/
+  717  ls
+  718  first.py
+  719  cd first.py
+  720  ./first.py
+  721  /usr/bin/python3 /home/dale/Desktop/first.py
+  722  15906
+  723  /usr/bin/python3 /home/dale/Desktop/first.py
+  724  sudo apt download java_jdk_1.8
+  725  java
+  726  sudo apt install openjdk-8-jdk
+  727  amixer set Capture toggle
+  728  amixer set Capture toggle
+  729  sudo sh ~/Downloads/VMware-Workstation-Full-16.1.0-17198959.x86_64.bundle
+  730  sudo sh ~/Downloads/unlocker/lnx-install.sh 
+  731  sudo ~/Downloads/unlocker/lnx-install.sh 
+  732  cd ~/Downloads/unlocker/
+  733  ./lnx-install.sh 
+  734  sudo ./lnx-install.sh 
+  735  sudo ~/Downloads/unlocker/lnx-install.sh 
+  736  python3 
+  737  sudo python3 ~/Downloads/unlocker/lnx-install.sh 
+  738  sudo sh ~/Downloads/unlocker/lnx-install.sh 
+  739  sudo sh ~/Downloads/unlocker/lnx-install
+  740  sudo sh ~/Downloads/unlocker/lnx-install.sh 
+  741  ./main 
+  742  /usr/bin/python3 /home/dale/Documents/Tinkoff/first.py
+  743  /usr/bin/python3 /home/dale/Documents/Tinkoff/second.py
+  744  /usr/bin/python3 /home/dale/Documents/Tinkoff/fourth.py
+  745  10 5
+  746  3.0 2.5 1.0 2.5 1.0 1.5 3.0 1.5
+  747  /usr/bin/python3 /home/dale/Documents/Tinkoff/fourth.py
+  748  x_p = []
+  749  y_p = []
+  750  x_a = 0.0
+  751  y_a = 0.0
+  752  k = 0
+  753  s = input()
+  754  s = s.split()
+  755  for i in range(4):
+  756  x_max = max(x_p)
+  757  y_max = max(y_p)
+  758  x_min = min(x_p)
+  759  y_min = min(y_p)
+  760  if (x//(x_max-x_min)) == (y//(y_max-y_min)):
+  761  else:
+  762  if (x_p[0]==x_max and y_p[0]==y_max):
+  763  elif (x_p[0]==x_max and y_p[0]==y_min):
+  764  elif (x_p[0]==x_min and y_p[0]==y_min):
+  765  else:
+  766  /usr/bin/python3 /home/dale/Documents/Tinkoff/fourth.py
+  767  /usr/bin/python3 /home/dale/Documents/Tinkoff/third.py
+  768  /usr/bin/python3 /home/dale/Documents/Tinkoff/fourth.py
+  769  9 12
+  770  1 1 7 1 7 9 1 9
+  771  3.0 3.0/usr/bin/python3 /home/dale/Documents/Tinkoff/fourth.py
+  772  9 12
+  773  1 1 7 1 7 9 1 9
+  774  9 12
+  775  /usr/bin/python3 /home/dale/Documents/Tinkoff/fourth.py
+  776  /usr/bin/python3 /home/dale/Documents/Tinkoff/fifth.py
+  777  /usr/bin/python3 /home/dale/Documents/Tinkoff/first.py
+  778  /usr/bin/python3 /home/dale/Documents/Tinkoff/third.py
+  779  /usr/bin/python3 /home/dale/Documents/Tinkoff/fourth.py
+  780  /usr/bin/python3 /home/dale/Documents/Tinkoff/For_Ann.py
+  781  /usr/bin/python3 /home/dale/Desktop/second.py
+  782  /usr/bin/python3 /home/dale/Desktop/first.py
+  783  /usr/bin/python3 /home/dale/Desktop/second.py
+  784  /usr/bin/python3 /home/dale/Desktop/first.py
+  785  /usr/bin/python3 /home/dale/Desktop/second.py
+  786  /usr/bin/python3 /home/dale/Desktop/first.py
+  787  /usr/bin/python3 /home/dale/Desktop/ForAnn/27-7.py
+  788  /usr/bin/python3 /home/dale/Desktop/ForAnn/ninth.py
+  789  /usr/bin/python3 /home/dale/Desktop/ForAnn/27-12.py
+  790  /usr/bin/python3 /home/dale/Desktop/ForAnn/27-14.py
+  791  python-3
+  792  python3 100+12
+  793  python3
+  794  sudo apt-get install mono-complete
+  795  cd Documents/
+  796  cd PSS_2/
+  797  cd 
+  798  cd Documents/
+  799  cd PSS_2/
+  800  cd HW1/
+  801  cd main.cpp
+  802  run main.cpp
+  803  ./main.cpp
+  804  main.cpp
+  805  ./main
+  806  g++ main.cpp -o main
+  807  ./main
+  808  cd cmake-build-debug/
+  809  ./HW1
+  810  cd Documents/
+  811  cd PSS_2
+  812  cd HW1
+  813  g++ main.cpp -o main -lstdc++ -std=gnu++17
+  814  ./main
+  815  g++ -fsanitize=address main.cpp
+  816  ./a.out
+  817  git clone https://gitlab.com/iu-roroo/onti-202122/irs-short-assignments.git
+  818  /usr/bin/python3 /home/dale/Documents/NTI2122/irs-short-assignments/unreleased_02_task/solution/main.py
+  819  /usr/bin/python3 /home/dale/Documents/NTI2122/irs-short-assignments/unreleased_05_collisions/solution/solution.py
+  820  sudo apt update
+  821  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+  822  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  823  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+  824  sudo apt update
+  825  sudo apt-get update
+  826  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg     lsb-release
+  827  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+  828  echo   "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  829    $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  830  sudo apt-get update
+  831  sudo docker run hello-world
+  832  sudo docker pull aergus/latex
+  833  св
+  834  cd
+  835  cd Documents/
+  836  cd NTI2122/
+  837  cd irs-short-assignments/
+  838  sudo ./build_in_docker.sh
+  839  sudo build_in_docker.sh
+  840  sudo ./build_in_docker.sh
+  841  build_in_docker.sh
+  842  cd ..
+  843  sudo ./build_in_docker.sh
+  844  cd Documents/
+  845  cd NTI2122/
+  846  cd irs-short-assignments/
+  847  sudo bash build_in_docker.sh
+  848  sudo build_in_docker.sh
+  849  sudo ./build_in_docker.sh
+  850  sudo ./build_in_docker.sh clean
+  851  sudo bash ./build_in_docker.sh clean
+  852  cd irs-short-assignments/
+  853  sudo ./build_in_docker.sh clean
+  854  sudo bash ./build_in_docker.sh clean
+  855  /usr/bin/python3 /home/dale/Documents/NTI2122/irs-short-assignments/unreleased_06_task/solution/ze_formula.py
+  856  /usr/bin/python3 /home/dale/Documents/NTI2122/irs-short-assignments/unreleased_06_task/solution/ze_formula.py
+  857  /usr/bin/python3 /home/dale/Documents/NTI2122/irs-short-assignments/unreleased_06_task/tests/main.py
+  858  /usr/bin/python3 /home/dale/Documents/NTI2122/irs-short-assignments/unreleased_07_task/solution/solution.py
+  859  /usr/bin/python3 /home/dale/Documents/NTI2122/irs-short-assignments/unreleased_05_collisions/solution/solution.py
+  860  cd Documents/
+  861  cd NTI2122/
+  862  cd irs-short-assignments/
+  863  sudo ./build_in_docker.sh
+  864  sudo bash ./build_in_docker.sh
+  865  cd Documents/
+  866  cd NTI2122/
+  867  cd irs-short-assignments/
+  868  sudo ./build_in_docker.sh clean
+  869  sudo bash ./build_in_docker.sh
+  870  sudo ./build_in_docker.sh cleansudo ./build_in_docker.sh clean
+  871  sudo bash ./build_in_docker.sh clean
+  872  cd irs-short-assignments/
+  873  sudo bash ./build_in_docker.sh clean
+  874  whoami
+  875  hostname
+  876  man whoami
+  877  stdin
+  878  mkdir ~/week1
+  879  cd week1
+  880  cd ..
+  881  cd bin/
+  882  ls
+  883  ls | sort -r | grep PATTERN gcc
+  884  ls | sort -r | tail -n 3
+  885  ls | sort -r | grep gcc
+  886  ls help
+  887  ls | sort -r | grep gcc > ~/week1/ex1.txt
+  888  cd ..
+  889  cd home/
+  890  cd dale/
+  891  mkdir somefolder
+  892  jobs
+  893  cd..
+  894  cd week1
+  895  history > ex2.txt
