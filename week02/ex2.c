@@ -12,5 +12,5 @@ int main() {
         str[i] = str[len-1-i];
         str[len-1-i] = temp;
     }
-    printf("Inverted: %s", str);
+    printf("Inverted: %s\n", str);
 }

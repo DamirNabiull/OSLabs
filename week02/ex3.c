@@ -76,6 +76,6 @@ int main() {
         func3(n);
     }
     else {
-        printf("No such function exist");
+        printf("No such function exist\n");
     }
 }
