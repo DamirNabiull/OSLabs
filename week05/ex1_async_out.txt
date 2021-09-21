@@ -1,0 +1,15 @@
+Thread #1 created
+Thread #2 created
+Message from thread #1
+Thread #3 created
+Message from thread #2
+Message from thread #3
+Thread #4 created
+Thread #5 created
+Message from thread #4
+Thread #1 is done
+Message from thread #5
+Thread #2 is done
+Thread #3 is done
+Thread #4 is done
+Thread #5 is done
