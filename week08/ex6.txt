@@ -1,0 +1,8 @@
+Page size = 8 KB
+Virtual addresses = 16 bit
+
+Offset = log2 (8*1024) = 13 bit
+
+Number of enntries = 2^(16-13) = 8
+
+Answer: 8

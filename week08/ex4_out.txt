@@ -1,0 +1,15 @@
+mem_usage: 1049668
+mem_usage: 2098568
+mem_usage: 3147176
+mem_usage: 4195520
+mem_usage: 5244128
+mem_usage: 6292736
+mem_usage: 7341344
+mem_usage: 8389952
+mem_usage: 9438560
+mem_usage: 10487168
+mem_usage: 11535776
+mem_usage: 12584384
+mem_usage: 13632728
+mem_usage: 14680864
+Killed

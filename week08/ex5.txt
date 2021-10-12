@@ -1,0 +1,2 @@
+Physical address - real address in memory (direct access)
+Virtual adress - program-generated address in virtual memory, mapped onto physical memory
