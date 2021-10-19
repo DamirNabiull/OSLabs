@@ -1,0 +1,10 @@
+Increasing seq. in ex2_inc.txt
+Deacreasing seq. in ex2_dec.txt
+
+Hit/Miss ratio increase if references to the same pages stay are at a distance less than page frame size from each other
+
+It workes because page won't be droped from page frame and we will hit it
+
+Hit/Miss ratio decrease if references to the same pages stay are at a distance that bigger than page frame size from each other
+
+It workes because page will be droped from page frame and we won't hit it
