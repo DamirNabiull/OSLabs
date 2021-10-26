@@ -1,0 +1,11 @@
+mode of '_ex3.txt' changed from 0777 (rwxrwxrwx) to 0666 (rw-rw-rw-)
+ 
+mode of '_ex3.txt' changed from 0666 (rw-rw-rw-) to 0766 (rwxrw-rw-)
+mode of '_ex3.txt' changed from 0766 (rwxrw-rw-) to 0767 (rwxrw-rwx)
+ 
+mode of '_ex3.txt' changed from 0767 (rwxrw-rwx) to 0777 (rwxrwxrwx)
+ 
+Answers:
+660 - read and write for user and group, nothing for other
+775 - all for user and group, reand and exeecute for other
+777 - all for user, group, and other
