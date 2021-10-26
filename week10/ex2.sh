@@ -18,4 +18,4 @@ find ./week01/file.txt -inum "$(ls -i ./week01/file.txt | cut -d ' ' -f 1)"  > .
 
 cat ./week10/ex2.txt
 
-find ./week01/file.txt -inum "$(ls -i ./week01/file.txt | cut -d ' ' -f 1)" -exec rm {} \; >> ./week10/ex.txt
+find ./week01/file.txt -inum "$(ls -i ./week01/file.txt | cut -d ' ' -f 1)" -exec rm {} \; >> ./week10/ex2.txt
