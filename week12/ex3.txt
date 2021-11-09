@@ -1,0 +1,47 @@
+Short cuts:
+	cap - Get some cappuccino!
+	pe - I passed the Exam!
+	os - Operating Systems
+
+Program execution:
+
+PRESSED 0x2e 46
+c
+PRESSED 0x1e 30
+a
+PRESSED 0x19 25
+
+
+	I passed the Exam!
+
+p
+RELEASED 0x19 25
+
+RELEASED 0x2e 46
+
+RELEASED 0x1e 30
+
+PRESSED 0x18 24
+o
+PRESSED 0x1f 31
+
+
+	Operating Systems
+
+s
+RELEASED 0x1f 31
+
+RELEASED 0x18 24
+
+PRESSED 0x19 25
+p
+PRESSED 0x12 18
+
+
+	Get some cappuccino!
+
+e
+RELEASED 0x12 18
+
+RELEASED 0x19 25
+
