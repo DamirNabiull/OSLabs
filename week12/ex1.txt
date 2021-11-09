@@ -43,3 +43,8 @@
   5088-508b : 0000:00:17.0
     5088-508b : ahci
   fd60-fd63 : pnp 00:03
+  
+  
+dma1 - first Direct Memory Access controller   
+pic1 - Programmable Interrupt controoller   
+timer1 - timer counter (16-bit timer/counter register pair)
