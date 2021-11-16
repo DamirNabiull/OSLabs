@@ -1,0 +1,3 @@
+Avoidance - we check each resourse for safe/unsafe by the Banker's algorithm. If safe - run procces, otherwise no. We just aboid proccess if there exist deadlock.
+Recovery - there exists 3 types of avoidance (Rollback, Preemption, and Killing Processes). Each of this type wait deadlock, after that - repair deadlock. We don't care about deadlock while it does't appear.
+Prevention - If we prevent conditions for deadlock, we will not have deadlock. Now we have 4 conditions: Mutual Exclusion, Hold and Wait, No preemption, and Circular wait. For this method - we won't care that deadlock will appear, because we prevent it.
